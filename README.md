@@ -1,1 +1,2 @@
-# MS-SQL-Server-Portfolio
+# Johnathan Chavez's SQL Portfolio
+Hello, and thanks for stopping by! This repository contains examples of SQL code I've written for projects that I have chosen to practice with. While working through projects in online or college courses, these projects came from datasets found on Kaggle. Feel free to take a look around and [reach out](linkedin.com/in/johnathan-chavez-114033210) if you have any feedback or questions.
